@@ -15,9 +15,10 @@ formulas, Pivot Table analysis, and interactive dashboard building.
 - Charts & Dashboard Design
 
 ## Key Insights
-- [Write 1 insight from your data]
-- [Write another insight]
-- [Write one more insight]
+- Customers with 0-1 mile commute distance were most likely to purchase bikes.
+- Middle-aged group (31-54) dominated bike purchases over other age groups.
+- Purchase rates dropped significantly for commute distances beyond 5 miles.
+- North America led in bike purchases compared to Europe and Pacific regions.
 
 ## What I Learned
 - Data cleaning and formatting raw data
